@@ -14,4 +14,5 @@
 CNN+Mamba是医学图像增强的高效范式，适合低资源设备部署。
 ---
 ### 配图（手动插入）
+![Hybrid CNN-Mamba Architecture](https://i.imgur.com/8Z7X9yQ.png)
 图注：Hybrid CNN-Mamba 整体架构
